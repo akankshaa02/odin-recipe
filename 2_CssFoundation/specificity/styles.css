@@ -1,0 +1,30 @@
+/* rule 1 */
+.subsection {
+    color: blue;
+  }
+  
+  /* rule 2 */
+  .main .list {
+    color: red;
+  }
+
+  /* rule 3 */
+#subsection {
+    color: blue;
+  }
+  
+  /* rule 4 */
+  .main1 .list1 {
+    color: red;
+  }
+  
+  /* rule 5 */
+.list2 #subsection2 {
+    background-color: yellow;
+    color: blue;
+  }
+  
+  /* rule 6 */
+  .main2 .list2 #subsection2 {
+    color: red;
+  }

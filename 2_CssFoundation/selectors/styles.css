@@ -1,0 +1,11 @@
+/*chaining selectors in css*/
+.subsection.header {
+    color: red;
+}
+
+/*Grouping of selectors*/
+.read, 
+.unread{
+    color: blue;
+    background-color: yellow;
+}

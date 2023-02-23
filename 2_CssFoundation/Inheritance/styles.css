@@ -1,0 +1,10 @@
+#parent {
+    color: red;
+  }
+
+/* If the color was never mentiond for child element 
+it would have simply inherited the red text color from 
+its parent element */
+.child {
+    color: blue;
+  }
